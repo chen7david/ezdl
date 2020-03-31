@@ -19,7 +19,7 @@ class Downloader {
         return this
     }
 
-    params(params){
+    params(params = []){
         this._params = path.join(...params)
         return this
     }
