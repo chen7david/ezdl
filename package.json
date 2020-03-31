@@ -1,6 +1,6 @@
 {
   "name": "ezdl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "asynchronous downloads",
   "main": "index.js",
   "scripts": {
